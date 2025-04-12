@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejercio3 {
+public class Ejercicio3 {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
         // se inicializan las variables por fuera del bucle 
