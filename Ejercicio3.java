@@ -51,7 +51,7 @@ public class Ejercicio3 {
                     break;
                 case 3:
                     System.out.println("Vamos a calcular el area de un circulo");
-                    System.out.println("¿Cual es la altura del circulo?");
+                    System.out.println("¿Cual es el radio del circulo?");
                     radio = sc.nextDouble();// se lee el dato 
                     areac = pi*radio*radio; // se realiza la operacion 
                     System.out.println("El area del circulo es: "+ areac);// se muestra el resultado
